@@ -1,0 +1,653 @@
+\\project
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+>>component"
+    "
+\\project\component
+\\project\component\list
+\\project\component\ignored
+\\project\component\option
+\\project\component\option
+\\project\component\option
+\\project\component\option
+\\project\component\option
+\\project\component\option
+\\project\component
+\\project\component
+>>leaf"
+      "
+\\project\component\leaf
+>>file"
+        "
+>>file"
+        "
+\\project\component\leaf\file
+>>entry"
+          "
+\\project\component\leaf\file\entry
+>>provider"
+            "
+\\project\component\leaf\file\entry\provider
+>>state"
+              "
+\\project\component\leaf\file\entry\provider\state
+\\project\component\leaf\file\entry\provider\state\caret
+\\project\component\leaf\file\entry\provider\state\folding
+\\project\component\leaf\file
+>>entry"
+          "
+\\project\component\leaf\file\entry
+>>provider"
+            "
+\\project\component\leaf\file\entry\provider
+>>state"
+              "
+\\project\component\leaf\file\entry\provider\state
+>>folding"
+                "
+\\project\component\leaf\file\entry\provider\state\caret
+\\project\component\leaf\file\entry\provider\state\folding
+\\project\component\leaf\file\entry\provider\state\folding\element
+\\project\component
+>>option"
+      "
+\\project\component\option
+>>list"
+        "
+\\project\component\option\list
+\\project\component\option\list\option
+\\project\component
+>>option"
+      "
+\\project\component\option
+\\project\component\option\projects_view
+\\project\component
+>>option"
+      "
+\\project\component\option
+>>list"
+        "
+\\project\component\option\list
+\\project\component\option\list\option
+\\project\component\option\list\option
+\\project\component
+\\project\component\option
+\\project\component\option
+\\project\component\option
+\\project\component
+>>navigator"
+      "
+\\project\component\navigator
+\\project\component\navigator\flattenPackages
+\\project\component\navigator\showMembers
+\\project\component\navigator\showModules
+\\project\component\navigator\showLibraryContents
+\\project\component\navigator\hideEmptyPackages
+\\project\component\navigator\abbreviatePackageNames
+\\project\component\navigator\autoscrollToSource
+\\project\component\navigator\autoscrollFromSource
+\\project\component\navigator\sortByType
+\\project\component\navigator\manualOrder
+\\project\component\navigator\foldersAlwaysOnTop
+\\project\component\panes
+\\project\component
+\\project\component\property
+\\project\component\property
+\\project\component\property
+\\project\component\property
+\\project\component
+>>option"
+      "
+\\project\component\option
+>>list"
+        "
+\\project\component\option\list
+>>RuleState"
+          "
+>>RuleState"
+          "
+\\project\component\option\list\RuleState
+\\project\component\option\list\RuleState\option
+\\project\component\option\list\RuleState
+\\project\component\option\list\RuleState\option
+\\project\component
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>configuration"
+      "
+>>list"
+      "
+>>recent_temporary"
+      "
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\module
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\module
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\predefined_log_file
+\\project\component\configuration\method
+\\project\component\configuration
+>>Profilers"
+        "
+\\project\component\configuration\module
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\Java
+\\project\component\configuration\Profilers
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\method
+\\project\component\configuration
+>>Profilers"
+        "
+\\project\component\configuration\module
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\Java
+\\project\component\configuration\Profilers
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\Profilers\option
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\module
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\module
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+>>ExternalSystemSettings"
+        "
+\\project\component\configuration\ExternalSystemSettings
+>>option"
+          "
+>>option"
+          "
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option\list
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\ExternalSystemSettings\option\list
+\\project\component\configuration\ExternalSystemSettings\option
+\\project\component\configuration\method
+\\project\component\configuration
+>>option"
+        "
+\\project\component\configuration\extension
+\\project\component\configuration\module
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option\value
+\\project\component\configuration\envs
+\\project\component\configuration\patterns
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\module
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\module
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\extension
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\envs
+\\project\component\configuration\method
+\\project\component\configuration
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\method
+\\project\component\configuration
+>>option"
+        "
+\\project\component\configuration\extension
+\\project\component\configuration\module
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\option\value
+\\project\component\configuration\option
+\\project\component\configuration\option
+\\project\component\configuration\envs
+\\project\component\configuration\properties
+\\project\component\configuration\listeners
+\\project\component\configuration\method
+\\project\component\list
+\\project\component\list\item
+\\project\component\recent_temporary
+>>list"
+        "
+\\project\component\recent_temporary\list
+\\project\component\recent_temporary\list\item
+\\project\component
+\\project\component\option
+\\project\component
+>>task"
+      "
+\\project\component\task
+>>created"1496517694249"
+>>updated"1496517694249"
+\\project\component\task\changelist
+\\project\component\task\created
+\\project\component\task\option
+\\project\component\task\option
+\\project\component\task\updated
+\\project\component\servers
+\\project\component
+>>layout"
+      "
+\\project\component\frame
+\\project\component\layout
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component\layout\window_info
+\\project\component
+\\project\component\option
+\\project\component
+\\project\component\breakpoint-manager
+\\project\component\watches-manager
+\\project\component
+\\project\component\option
+\\project\component\option
+\\project\component
+>>entry"
+      "
+>>entry"
+      "
+>>entry"
+      "
+>>entry"
+      "
+>>entry"
+      "
+>>entry"
+      "
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+>>folding"
+            "
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry\provider\state\folding\element
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+>>folding"
+            "
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry\provider\state\folding\element
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry
+>>provider"
+        "
+\\project\component\entry\provider
+>>state"
+          "
+\\project\component\entry\provider\state
+>>folding"
+            "
+\\project\component\entry\provider\state\caret
+\\project\component\entry\provider\state\folding
+\\project\component\entry\provider\state\folding\element
+\\project\component
+>>states"
+      "
+\\project\component\states
+>>state"
+        "
+>>state"
+        "
+>>state"
+        "
+>>state"
+        "
+>>state"
+        "
+>>state"
+        "
+>>state"
+        "
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\artifact-editor
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>last-edited"No facets are configured"
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\last-edited
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>last-edited"1.8"
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\last-edited
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>last-edited"Educational"
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\last-edited
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>last-edited"1.8"
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\last-edited
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option
+\\project\component\states\state
+>>settings"
+          "
+\\project\component\states\state\settings
+>>splitter-proportions"
+            "
+\\project\component\states\state\settings\splitter-proportions
+>>option"
+              "
+\\project\component\states\state\settings\splitter-proportions\option
+>>list"
+                "
+\\project\component\states\state\settings\splitter-proportions\option\list
+\\project\component\states\state\settings\splitter-proportions\option\list\option

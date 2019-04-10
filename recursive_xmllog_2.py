@@ -47,7 +47,7 @@ def traverse_xmltree(root):
 if __name__ == "__main__":
     # Replace filepath with the path to your XML file. Because ElementTree doesn't work well with namespaces,
     # your XML file should not have XML namespaces in it.
-    filepath = "../cleanfile.xml"
+    filepath = "workspace.xml"
     tree = ET.parse(filepath)
     root = tree.getroot()
 
@@ -66,5 +66,5 @@ if __name__ == "__main__":
             log2.append(elem[0])
 
     # Write the paths to a text file
-    with open('Pathlog.txt', 'w') as pathlog:
+    with open('pathlog.txt', 'w') as pathlog:
         pathlog.write("\n".join(log2))
